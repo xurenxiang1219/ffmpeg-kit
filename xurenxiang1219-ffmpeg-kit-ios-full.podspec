@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.requires_arc      = true
   s.static_framework  = true
 
-  s.source       = { :http => "https://github.com/xurenxiang1219/ffmpeg-kit/releases/download/v6.0.LTS/ffmpeg-kit-full-gpl-6.0.LTS-ios-framework.zip"}
+  s.source       = { :http => "https://github.com/xurenxiang1219/ffmpeg-kit/releases/download/v6.0.2-xurenxiang1219/ffmpeg-kit-full-6.0.LTS-ios-framework.zip"}
 
   s.libraries = [
     "z",
